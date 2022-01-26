@@ -1,4 +1,4 @@
-# re:Discover
+# Re:Discover
 
 ![Re-discover Image](docs/imgs/re-discover.png)
 
